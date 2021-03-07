@@ -1,0 +1,38 @@
+body {
+	background-image: url(img.jpg);
+}
+#main {
+	border: 10px white solid;
+	background-color: white;
+	margin: 0 10%;
+}
+#vict {
+	text-align: right;
+	background-color: #A8F0F0;
+}
+#vict h2 {
+	font-size: 14pt;
+	
+}
+#friends {
+	border: 4px #C2E9E9 solid;
+	background-color: #E8FBFB;
+	margin: 0 15px 100px 0;
+	float: left;
+	width: 20%;
+}
+.data span {
+	border-bottom: 2px blue dashed;
+}
+
+.content {
+	border: 4px #C2E9E9 solid;
+	background-color: #E8FBFB;
+	margin: 10px 0 0 0;
+	overflow: hidden;
+	padding: 10px;
+}
+.img {
+	float: right;
+	margin: 5px 15px 15px 5px;
+}
